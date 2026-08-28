@@ -1,0 +1,11 @@
+LAYOUT CORRECTION PROMPT
+
+Revise the current page so it looks like one large asymmetrical collage wall.
+
+Remove any grid-style dashboard layout and remove any separate Board Decorations section.
+
+Place all interests, stickers, photos, posters, and the quote directly inside one board area.
+
+Slightly rotate several cards, vary their sizes and positions, and allow a few elements to overlap while keeping all text readable.
+
+Use only HTML and CSS.

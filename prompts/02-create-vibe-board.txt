@@ -1,0 +1,47 @@
+PROMPT 2: CREATE THE VIBE BOARD
+
+Turn this plain webpage into a cool Vibe Board Studio collage wall.
+
+Only edit index.html and style.css.
+
+Use my existing content:
+- Board title
+- Theme
+- Main color
+- Mood
+- My interests
+- Board decorations
+- Favorite quote
+
+Make it look like a modern digital moodboard or creative room wall.
+
+Important style direction:
+- Do not make it look like a dashboard
+- Do not make everything perfectly aligned
+- Do not create separate sections for interests and decorations
+- Do not place everything in a clean grid
+- Create one large board area where everything is placed visually
+
+Make the board look like a creative collage:
+- Turn interests into posters, sticky notes, Polaroids, or mini cards
+- Place decorations directly on the board as stickers, icons, photos, or pinned notes
+- Slightly rotate several cards
+- Vary card sizes and positions
+- Allow a few elements to overlap while keeping text readable
+- Add the quote as a pinned quote card
+- Add small theme labels above or below the board
+- Add a colorful glow line along the board
+- Use rounded corners, shadows, gradients, tape or pin effects, and simple hover effects
+- Keep the design sleek, modern, and suitable for high school students
+- Avoid a childish design
+
+Use only HTML and CSS.
+
+Do not use JavaScript.
+Do not use React.
+Do not use npm.
+Do not use external libraries.
+Do not add backend code.
+Do not add complicated animations.
+
+Show the planned changes first before editing.

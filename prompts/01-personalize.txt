@@ -1,0 +1,34 @@
+PROMPT 1: PERSONALIZE THE PAGE
+
+Update only the visible text in index.html.
+
+Do not change the design yet.
+Do not edit style.css yet.
+Do not add JavaScript.
+Do not add new files.
+
+Use these choices:
+
+Board Title: Hansika's vibe board
+Theme: a pink and purple aesthetic
+Main Color: pink
+Mood: happy and energetic
+
+My Interests:
+1. swimming
+2. napping
+3. dancing
+4. singing
+
+Board Decorations:
+1. a picture of me
+2. stickers of hearts and stars
+3. a picture of my family
+4. fairy lights
+
+Favorite Quote:
+"Spread love as much as you can"
+
+Keep the page simple for now.
+Only update the visible text.
+Show the planned text changes first before editing.
